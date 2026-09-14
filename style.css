@@ -15,7 +15,6 @@ main,footer,.masthead{max-width:1200px;margin-inline:auto}.masthead{padding:24px
 .masthead,.writing,.method,.footer-meta,.bottom-nav,.bottom-nav a+a,.contact-strip{border:0}
 #article-list{display:grid;gap:20px;padding:0 30px;align-content:start}
 .post-item,.post-item:first-child,.post-item:last-child{border:0;margin:0;padding:28px 30px;background:rgba(255,255,255,.78);border-radius:18px}
-.article-search 
 .method-grid{gap:18px}.method .focus-item,.method .focus-item:first-child,.method .focus-item:last-child{border:0;padding:25px;background:#eee7f6;border-radius:18px}
 .contact-strip{background:rgba(255,255,255,.65);padding:22px 25px;border-radius:16px;margin-top:24px}
 .bottom-nav{gap:12px;padding:8px 30px 30px}.bottom-nav a{background:#eee7f6;border-radius:14px;font-size:22px;padding:16px 22px}
