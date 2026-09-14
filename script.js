@@ -1,4 +1,3 @@
-document.getElementById('year').textContent = new Date().getFullYear();
 const navLinks = [...document.querySelectorAll('.nav-link')];
 function updateNavigation() {
   const focusAnchors = ['#product-thinking', '#ai-products', '#product-delivery'];
